@@ -39,7 +39,7 @@ red
 
 !! URxvt
 
-URxvt.font: xft:Fira Code:style=Regular
+URxvt.font: xft:Fira Code:style=Retina
 URxvt.boldFont: xft:Fira Code:style=Bold
 URXvt.italicFont: xft:Iosevka SS05:style=Italic
 URXvt.boldItalicFont: xft:Iosevka SS05:style=Bold Italic
