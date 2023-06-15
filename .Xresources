@@ -4,13 +4,45 @@
 *.foreground: #F3D4B9
 *.background: #1F1F1F
 
+! black
+*.color0: #141414
+*.color8: #313131
+
+red
+*.color1: #A01821
+*.color9: #D03943
+
+! green
+*.color2: #54BD4C
+*.color10: #70C86A
+
+! yellow
+*.color3: #B3AD42
+*.color11: #BDB74C
+
+! blue
+*.color4: #4C8CBD
+*.color12: #6A9FC8
+
+! magenta
+*.color5: #7342B3
+*.color13: #885BC2
+
+! cyan
+*.color6: #4CBD7D
+*.color14: #6AC893
+
+! white
+*.color7: #F9EBDC
+*.color15: #FCF5EE
+
 
 !! URxvt
 
-URxvt.font: xft:Iosevka SS03:style=Regular
-URxvt.boldFont: xft:Iosevka SS03:style=Bold
-URXvt.italicFont: xft:Iosevka SS03:style=Italic
-URXvt.boldItalicFont: xft:Iosevka SS03:style=Bold Italic
+URxvt.font: xft:Fira Code:style=Regular
+URxvt.boldFont: xft:Fira Code:style=Bold
+URXvt.italicFont: xft:Iosevka SS05:style=Italic
+URXvt.boldItalicFont: xft:Iosevka SS05:style=Bold Italic
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 URxvt.geometry: 92x24
