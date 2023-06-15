@@ -8,16 +8,16 @@
 *.color0: #141414
 *.color8: #313131
 
-red
+! red
 *.color1: #A01821
 *.color9: #D03943
 
 ! green
-*.color2: #54BD4C
+*.color2: #4AB342
 *.color10: #70C86A
 
 ! yellow
-*.color3: #B3AD42
+*.color3: #A49F3D
 *.color11: #BDB74C
 
 ! blue
@@ -29,11 +29,11 @@ red
 *.color13: #885BC2
 
 ! cyan
-*.color6: #4CBD7D
+*.color6: #42B373
 *.color14: #6AC893
 
 ! white
-*.color7: #F9EBDC
+*.color7: #F3D4B9
 *.color15: #FCF5EE
 
 
